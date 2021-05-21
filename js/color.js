@@ -1,4 +1,3 @@
-"use strict";
 export default [
   "#FFFFFF",
   "#2196F3",
